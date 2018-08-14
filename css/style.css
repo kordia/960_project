@@ -1,0 +1,32 @@
+.top-bar {
+    list-style: none;
+    padding: 0%
+    margin: 0%
+}
+.top-bar li {
+    display:inline;
+    margin right: 5px;
+}
+.top-bar nav{
+    display:inline;
+    margin right: 5px;
+}
+.top-pic {
+    margin: 20px auto;
+    margin-top: 10%
+    margin right:50px;
+    padding:10x;
+}
+.content{
+    margin: 20px auto;
+    margin-top: 10%
+    margin right:50px;
+    padding:10x;
+}
+.bottom-content a {
+    text-decoration: none;
+}
+.bottom-content li {
+    list-style: none;
+}
+

@@ -69,11 +69,31 @@ body{
 .content-middle li{
     text-decoration: none;
     list-style: none;
+    display: inline;
+    padding: 10px;
 }
 .content-middle a{
     text-decoration: none;
     list-style: none;
     color: black;
+}
+.text-1{
+    display: inline;
+    font-display: right;
+    padding-top:20px;
+    text-decoration: black;
+    text-align: right;
+    float: left; 
+    margin: 0px 10px 10px 0px;
+}
+.text-2{
+    text-align:left;
+    text-decoration: black;
+    padding-top: 20px;
+    display: inherit;
+    font-display: right;
+    float: left;  
+    margin: 10px
 }
 .bottom-content{
     margin-top:30px;
